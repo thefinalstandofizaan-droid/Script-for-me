@@ -20,7 +20,7 @@ local mainTitle = Instance.new("TextLabel")
 mainTitle.Size = UDim2.new(0, 500, 0, 60) 
 mainTitle.Position = UDim2.new(0.5, -250, 0.4, -30) 
 mainTitle.BackgroundTransparency = 1 
-mainTitle.Text = "KHATARSIZX" 
+mainTitle.Text = "SYX"
 mainTitle.TextColor3 = Color3.fromRGB(255, 255, 255) 
 mainTitle.TextSize = 50 
 mainTitle.Font = Enum.Font.LuckiestGuy 
@@ -68,14 +68,14 @@ gear.TextSize = 45
 gear.Parent = canvas 
 
 local lines = { 
-    "Initializing Khatarsizx protocols...", 
-    "Loading internal emote structures...", 
-    "Obtaining baseline animation data...", 
-    "Bypassing asset constraints...", 
-    "Fetching game directory keys...", 
-    "Injecting character modifications...", 
+    "Choking Merebennie...", 
+    "Stealing His Source...", 
+    "Skidding Whilst Gooning...", 
+    "Bypassing SanFuckingTino's Anti Cheat...", 
+    "Tricking The Game...", 
+    "Injecting A Mutant Syringe...", 
     "Syncing network environment...", 
-    "Optimizing client memory...", 
+    "Gaslighting client memory...", 
     "Loading interface frameworks...", 
     "Applying graphic shader patches...", 
     "Verifying trusted animation tracks...", 
@@ -113,14 +113,14 @@ SG:SetCore("SendNotification", {
     Title = "All Emotes Loaded", 
     Text = "Success! Everything is ready.", 
     Duration = 4, 
-    Button1 = "ok" 
+    Button1 = "Im Gay" 
 }) 
 task.wait(2) 
 
 local callback = Instance.new("BindableFunction") 
 callback.OnInvoke = function(button) 
     if button == "ok" and setclipboard then 
-        setclipboard("https://discord.gg/invitacion") 
+        setclipboard("discord.gg/mYMFbv7rEg/") 
     end 
 end 
 
